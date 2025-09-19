@@ -1,4 +1,4 @@
-# ⚖️ Balança de Microempuxo  
+# Balança de Microempuxo  
 
 Este projeto tem como objetivo construir melhorias para a **balança de microempuxo** da UnB para medições precisas de forças muito pequenas, utilizando eletrônica embarcada e processamento digital de sinais.  
 
